@@ -1,3 +1,5 @@
+# create a scatterplot
+#' @export
 my_scatter <- function(x, y) {
   plot(x, y,
        pch = 16,
